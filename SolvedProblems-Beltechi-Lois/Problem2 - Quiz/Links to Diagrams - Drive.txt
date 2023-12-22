@@ -1,0 +1,7 @@
+
+Database Diagram:
+https://drive.google.com/file/d/1p-oFxAWxRxF87d6yFaq9BWkWi_Xm9Y83/view
+
+
+Class Diagram:
+https://drive.google.com/file/d/1utlHy6-NARVY1QIhnkMuHT5LJu_7ECLQ/view

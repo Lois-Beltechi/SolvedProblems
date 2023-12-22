@@ -1,0 +1,5 @@
+ClassDiagram:
+https://drive.google.com/file/d/1XuvjfZwoP9KE6HdV9T5xXqs3Al3hm6bb/view
+
+DatabaseDiagram:
+https://drive.google.com/file/d/1JWPJaOj33gHsw_mZfu2UTg4HF5I95LRk/view
